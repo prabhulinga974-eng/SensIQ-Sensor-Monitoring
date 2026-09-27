@@ -1,0 +1,6 @@
+{
+  "name": "SensIQ - Industrial Sensor Health & In-Module Calibration Platform",
+  "description": "Smart edge sensor monitoring and on-module calibration system. Employs equipment physics models to compute accuracy, precision, and residual error while detecting sensor failures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
